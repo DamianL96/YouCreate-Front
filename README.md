@@ -1,7 +1,7 @@
-# YouCreate
 ![Logo de YouCreate](banner-youcreate.png)
 
 Simulacion de MVP, Fintech diseñada para administrar las finanzas de creadores de contenido. Implementa **Material Design**, **Bootstrap**, internacionalización (i18n) y **gráficas interactivas**.
+
 ![Captura de pantalla de YouCreate](captura-youcreate.png)
 
 ## 📑 Tabla de Contenidos
