@@ -32,7 +32,6 @@ Incluye soporte para **SSR (Server-Side Rendering)**, internacionalización, tem
 - 📊 Gráficas con **Chart.js**, **ng2-charts** y **ng-apexcharts**.  
 - 🔑 Manejo de autenticación con **jwt-decode**.  
 - 📦 Estructura lista para producción con configuración de entornos (`development` y `production`).  
-- 🚀 Compatible con **SSR (Server-Side Rendering)** mediante Express.  
 
 ---
 
@@ -124,6 +123,4 @@ Algunas dependencias clave:
 5. Abre un Pull Request  
 
 ---
-
-## 📄 Licencia
-Este proyecto se distribuye bajo la licencia **MIT**.  
+ 
